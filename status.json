@@ -1,23 +1,23 @@
 {
-  "timestamp": "2025-06-15T18:16:05.138531+00:00",
+  "timestamp": "2025-06-15T18:16:36.857255+00:00",
   "entities": {
     "sensor.temperature_living_room": {
-      "state": 23.8,
+      "state": 22.3,
       "unit": "\u00b0C"
     },
     "sensor.humidity_living_room": {
-      "state": 49.6,
+      "state": 45.7,
       "unit": "%"
     },
     "binary_sensor.window_open": {
       "state": false
     },
     "sensor.co2_level": {
-      "state": 502,
+      "state": 420,
       "unit": "ppm"
     },
     "sensor.debug_random_id": {
-      "state": 381901
+      "state": 224186
     }
   }
 }
