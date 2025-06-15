@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-06-15T17:18:58.178234+00:00",
+  "entities": {
+    "sensor.temperature_living_room": {
+      "state": 19.3,
+      "unit": "\u00b0C"
+    },
+    "sensor.humidity_living_room": {
+      "state": 52.4,
+      "unit": "%"
+    },
+    "binary_sensor.window_open": {
+      "state": false
+    },
+    "sensor.co2_level": {
+      "state": 738,
+      "unit": "ppm"
+    }
+  }
+}
